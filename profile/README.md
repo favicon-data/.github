@@ -16,7 +16,6 @@ Redis와 WebSocket을 활용한 비동기 처리
 
 ### ⭐️ project-slackbot  
 Slack 채널에 PR 요청, 일정 알림, 익명 제보 기능 제공  
-GitHub Actions 및 Google Calendar와 연동  
 
 ### 📊 data-manager  
 공공데이터 수집 및 전처리  

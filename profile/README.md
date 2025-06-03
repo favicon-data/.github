@@ -1,7 +1,32 @@
-## FAVICON 🐸
+# FAVICON 🐸
 우리의 데이터 관리 사이트 프로젝트를 소개합니다!
 
-### 📚 STACKS
+## 🗂️ REPOSITORY
+### 🎨 user-frontend  
+사용자 인터페이스 제공  
+JWT 기반 인증, 실시간 기능(WebSocket) 포함  
+
+### 🛠️ user-backend  
+사용자/게임 세션 관리 및 REST API 제공  
+Redis와 WebSocket을 활용한 비동기 처리  
+
+### 🧑‍💼 admin-frontend  
+관리자 전용 대시보드  
+유저 모니터링 및 데이터 통계 확인 기능  
+
+### ⭐️ project-slackbot  
+Slack 채널에 PR 요청, 일정 알림, 익명 제보 기능 제공  
+GitHub Actions 및 Google Calendar와 연동  
+
+### 📊 data-manager  
+공공데이터 수집 및 전처리  
+분석 결과 시각화 및 DB 저장 자동화  
+
+
+     
+
+
+## 📚 STACKS
 
 <!-- Backend -->
 <div style="margin-bottom: 8px;">

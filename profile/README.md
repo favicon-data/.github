@@ -1,6 +1,10 @@
 # FAVICON 🐸
 우리의 데이터 관리 사이트 프로젝트를 소개합니다!
 
+🗓️  프로젝트 기간 :     2024.07 ~ 2025.06  
+👥  참여 인원 :        5명   
+🖥️  플랫폼 사용자 :     웹, 관리자 웹, Slack Bot  
+
 ## 🗂️ REPOSITORY
 ### 🎨 user-frontend  
 사용자 인터페이스 제공  
@@ -33,6 +37,8 @@ Slack 채널에 PR 요청, 일정 알림, 익명 제보 기능 제공
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Scheduler-6DB33F?style=for-the-badge&logo=clockify&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white">
 </div>
 
 <!-- Frontend -->
@@ -49,4 +55,15 @@ Slack 채널에 PR 요청, 일정 알림, 익명 제보 기능 제공
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
+
+
+
+
+
+
